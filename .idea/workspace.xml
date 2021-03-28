@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c60960b1-99df-495d-a3f7-4857144145a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter1/ParityOfAWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter1/SwapBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter10/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter10/BinaryTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise1/HeightBalanced/Solution.java" afterDir="false" />
+    <list default="true" id="c60960b1-99df-495d-a3f7-4857144145a6" name="Default Changelist" comment="Add binary problems">
       <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise1/HeightBalanced/StackSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise2/SymmeTric/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise3/LCA/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise5/SumBinary/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chapter10/TreeTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise10/ComputeSuccessor/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise11/InOrderO1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise12/ReconstructBinaryTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise13/ReconstructWithMarker/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise6/SpecifiedSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise7/InOrderTraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise8/PreOrderTraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/Exercise9/KNodeInOrderTraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chapter10/InitializeBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ElementOfProgrammingInterview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ElementOfProgrammingInterview.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chapter1/NumberOfBitsSetToOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chapter1/NumberOfBitsSetToOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chapter10/BinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chapter10/BinaryTreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,10 +108,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Funix/Certificate 6/Discrete-Mathematics/Funix-Discrete-Mathematics/Assignment1-Exercise2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CungNhauDocSach/FUNiX_ReadBook_JavaIntro/Chapter_3/DEV_TungVu" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -124,25 +120,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="PostOrderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter10.HeightBalanced.PostOrderExample" />
-      <module name="ElementOfProgrammingInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chapter10.Exercise1.HeightBalanced.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise2.SymmeTric.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise10.KNodeInOrderTraversal.Solution" />
       <module name="ElementOfProgrammingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter10.Exercise2.SymmeTric.*" />
+          <option name="PATTERN" value="com.chapter10.Exercise10.KNodeInOrderTraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise3.LCA.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise12.ReconstructBinaryTree.Solution" />
       <module name="ElementOfProgrammingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter10.Exercise3.LCA.*" />
+          <option name="PATTERN" value="com.chapter10.Exercise12.ReconstructBinaryTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +147,24 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise5.SumBinary.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise13.ReconstructWithMarker.Solution" />
       <module name="ElementOfProgrammingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter10.Exercise5.SumBinary.*" />
+          <option name="PATTERN" value="com.chapter10.Exercise13.ReconstructWithMarker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise7.InOrderTraversal.Solution" />
+      <module name="ElementOfProgrammingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter10.Exercise7.InOrderTraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +173,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise1.HeightBalanced.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter10.Exercise8.PreOrderTraversal.Solution" />
       <module name="ElementOfProgrammingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chapter10.Exercise1.HeightBalanced.*" />
+          <option name="PATTERN" value="com.chapter10.Exercise8.PreOrderTraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,7 +202,7 @@
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.PostOrderExample" />
+        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +225,14 @@
       <workItem from="1615995342737" duration="620000" />
       <workItem from="1616082015116" duration="21000" />
       <workItem from="1616239548241" duration="9376000" />
-      <workItem from="1616296739691" duration="5737000" />
+      <workItem from="1616296739691" duration="5994000" />
+      <workItem from="1616332796199" duration="78000" />
+      <workItem from="1616508113103" duration="9697000" />
+      <workItem from="1616643819239" duration="149000" />
+      <workItem from="1616644031040" duration="11651000" />
+      <workItem from="1616827377398" duration="13456000" />
+      <workItem from="1616859016604" duration="1328000" />
+      <workItem from="1616898251584" duration="6865000" />
     </task>
     <task id="LOCAL-00001" summary="Add NumberOfBitsSetToOne problem">
       <created>1611484564655</created>
@@ -238,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611484564655</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add binary problems">
+      <created>1616316222258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616316222258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +268,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add NumberOfBitsSetToOne problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add NumberOfBitsSetToOne problem" />
+    <MESSAGE value="Add binary problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add binary problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -317,6 +328,36 @@
           <url>file://$PROJECT_DIR$/src/com/chapter10/Exercise5/SumBinary/Solution.java</url>
           <line>13</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/chapter10/Exercise6/SpecifiedSum/Solution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/chapter10/Exercise7/InOrderTraversal/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/chapter10/Exercise9/KNodeInOrderTraversal/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/chapter10/Exercise12/ReconstructBinaryTree/Solution.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/chapter10/Exercise12/ReconstructBinaryTree/Solution.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/chapter10/Exercise12/ReconstructBinaryTree/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
